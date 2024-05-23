@@ -55,8 +55,10 @@ Team Mates:
 
 ***Questions:***
 
-1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)*** __Fill answer here__.
-2. What are the two options of RAM, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** __Fill answer here__.
+1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)*** <br> Linux OS.
+   
+2. What are the two options of RAM, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** <br> The Codespaces configuration with 4 vCPUs, 8 GB RAM, and 32 GB disk storage is suitable for more demanding development tasks requiring higher performance and resource-intensive applications, while the configuration with 2 vCPUs, 4 GB RAM, and 32 GB disk storage is ideal for lighter development tasks and basic coding projects.
+
 3. Why must we commit and sync our current work on source control? ***(1 mark)*** __Fill answer here__.
 
 ## Exploring the Terminal
