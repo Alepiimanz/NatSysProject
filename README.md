@@ -3,8 +3,8 @@
 Group Name: __BilisMerah__. 
 
 Team Mates:
-1. __Muhammad Alif Haziq Bin Mohd Razmi__ and __(2110091)__
-2. __Muhammad Aliff Iman Bin Abd Rasid__ and __(2110487)__
+1. __Muhammad Alif Haziq Bin Mohd Razmi__ __(2110091)__
+2. __Muhammad Aliff Iman Bin Abd Rasid__ __(2110487)__
 
 
 ## Rules
@@ -22,7 +22,7 @@ Team Mates:
 
 ***Questions:***
 
-1. What is the link of the fork Net&Sys Assignment in your repository. ***(1 mark)*** __test__ test.
+1. What is the link of the fork Net&Sys Assignment in your repository. ***(1 mark)*** __https://github.com/LipJiq/NatSysProject.git__.
 2. How many files and folders are in this repository. ***(1 mark)*** __Fill answer here__.
 
 
